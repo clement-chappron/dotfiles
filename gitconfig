@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = clement.chappron@gmail.com
+	name = clement chappron
